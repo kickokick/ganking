@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 76
+  controlID: 78
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 454
     height: 987
-  m_MinSize: {x: 275, y: 50}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
   m_Panes:
   - {fileID: 13}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 77
+  controlID: 79
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 78
+  controlID: 80
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -330,9 +330,9 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 1e5a0000
-    m_LastClickedID: 23070
-    m_ExpandedIDs: 00000000245900002a59000000ca9a3bffffff7f
+    m_SelectedIDs: aa590000
+    m_LastClickedID: 22954
+    m_ExpandedIDs: 00000000885900008e59000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000024590000
+    m_ExpandedIDs: 0000000088590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -387,7 +387,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -490,7 +490,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: aef6ffff3cf8ffff38fbffff
+      m_ExpandedIDs: 38fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -741,7 +741,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: -0.8954576, y: 1.0709151, z: 0.008573667}
     speed: 2
-    m_Value: {x: -1.2602243, y: 0.9900443, z: 0.0055367514}
+    m_Value: {x: -0.8954576, y: 1.0709151, z: 0.008573667}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -794,7 +794,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 6.4449687
     speed: 2
-    m_Value: 6.748658
+    m_Value: 6.4449687
   m_Ortho:
     m_Target: 1
     speed: 2
