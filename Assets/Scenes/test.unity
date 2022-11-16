@@ -433,6 +433,7 @@ GameObject:
   - component: {fileID: 2101836751}
   - component: {fileID: 2101836750}
   - component: {fileID: 2101836753}
+  - component: {fileID: 2101836754}
   m_Layer: 5
   m_Name: Button
   m_TagString: Untagged
@@ -544,7 +545,7 @@ MonoBehaviour:
   m_FillAmount: 1
   m_FillClockwise: 1
   m_FillOrigin: 0
-  m_UseSpriteMesh: 1
+  m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
 --- !u!222 &2101836752
 CanvasRenderer:
@@ -574,3 +575,69 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
+--- !u!60 &2101836754
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2101836748}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 1}
+      - {x: -0.95105654, y: 0.30901697}
+      - {x: -0.5877852, y: -0.80901706}
+      - {x: 0.58778536, y: -0.80901694}
+      - {x: 25.623245, y: 20.769888}
+      - {x: -6.930913, y: 20.999264}
+      - {x: -6.8986115, y: 19.154606}
+      - {x: -10.55152, y: 19.191154}
+      - {x: -10.53139, y: 20.893429}
+      - {x: -21.307693, y: 20.859087}
+      - {x: -21.229338, y: 19.138035}
+      - {x: -26.711111, y: 19.077738}
+      - {x: -26.797031, y: 17.34605}
+      - {x: -28.440514, y: 17.330002}
+      - {x: -28.409098, y: 15.754579}
+      - {x: -30.436787, y: 15.807292}
+      - {x: -30.465572, y: -15.474739}
+      - {x: -28.320925, y: -15.405397}
+      - {x: -28.332918, y: -17.2202}
+      - {x: -26.918146, y: -17.08258}
+      - {x: -26.864332, y: -19.131851}
+      - {x: -22.801579, y: -19.098942}
+      - {x: -22.772629, y: -20.50397}
+      - {x: 18.76727, y: -20.646986}
+      - {x: 18.670622, y: -19.003246}
+      - {x: 29.520237, y: -19.116203}
+      - {x: 29.553127, y: -17.329773}
+      - {x: 31.439386, y: -17.314299}
+      - {x: 31.427841, y: -15.53707}
+      - {x: 33.195835, y: -15.539176}
+      - {x: 33.00944, y: 14.146269}
+      - {x: 31.393497, y: 14.112951}
+      - {x: 31.36763, y: 15.806057}
+      - {x: 29.512762, y: 15.732341}
+      - {x: 29.495632, y: 17.765175}
+      - {x: 27.53001, y: 17.724733}
+      - {x: 27.548359, y: 19.103668}
+      - {x: 27.414175, y: 19.06533}
+      - {x: 25.693369, y: 19.01741}
+      - {x: 25.73749, y: 20.8139}
+      - {x: 0.9510565, y: 0.30901712}
