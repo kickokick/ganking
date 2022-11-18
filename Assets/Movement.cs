@@ -19,7 +19,7 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-        bodyRB.velocity = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"), 0.0f) * Time.deltaTime;
+        bodyRB.velocity = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"), 0.0f);
         camera.position = new Vector3(bodyT.position.x, bodyT.position.y, -10.0f);
     }
 }
