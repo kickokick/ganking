@@ -48,7 +48,11 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 90
+=======
+  controlID: 88
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -67,7 +71,11 @@ MonoBehaviour:
     x: 1466
     y: 0
     width: 454
+<<<<<<< HEAD
     height: 987
+=======
+    height: 947
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 16}
@@ -129,7 +137,7 @@ MonoBehaviour:
   - {fileID: 20}
   - {fileID: 13}
   m_Selected: 0
-  m_LastSelected: 2
+  m_LastSelected: 1
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -225,7 +233,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 91
+=======
+  controlID: 93
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -250,7 +262,11 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 92
+=======
+  controlID: 94
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -337,7 +353,11 @@ MonoBehaviour:
     m_SaveData: []
   m_LockTracker:
     m_IsLocked: 0
+<<<<<<< HEAD
   m_LastSelectedObjectID: 27736
+=======
+  m_LastSelectedObjectID: 23776
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
 --- !u!114 &14
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -460,22 +480,28 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets/prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets/prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\kalar\Documents\GitHub\ganking
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
     m_SelectedIDs: b85b0000
     m_LastClickedID: 23480
     m_ExpandedIDs: 00000000ac5b0000b25b000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: a6590000
+    m_LastClickedID: 22950
+    m_ExpandedIDs: 000000009459000096590000985900009a5900009c59000000ca9a3b
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -503,7 +529,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000ac5b0000
+=======
+    m_ExpandedIDs: 000000009459000096590000985900009a5900009c590000
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -531,7 +561,7 @@ MonoBehaviour:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
-    m_ExpandedInstanceIDs: c6230000b2590000b65900008ee4ffff00000000
+    m_ExpandedInstanceIDs: c6230000b2590000b65900008ee4ffff00000000e85a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -631,9 +661,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
       m_SelectedIDs: c06b0000
       m_LastClickedID: 0
       m_ExpandedIDs: 02acffff30acffffd6b9ffff22baffffb6f6ffff22f9ffffa8690000306c0000
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 12f1ffff38fbffff
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -882,9 +918,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
     m_Target: {x: 0.7210597, y: 0.29841733, z: 0.044363458}
     speed: 2
     m_Value: {x: 0.7210597, y: 0.29841733, z: 0.044363458}
+=======
+    m_Target: {x: 3.8369567, y: 1.8441529, z: -9.829665}
+    speed: 2
+    m_Value: {x: 3.5667887, y: 1.697902, z: -9.82597}
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -935,9 +977,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< HEAD
     m_Target: 3.3787816
     speed: 2
     m_Value: 3.3787816
+=======
+    m_Target: 8.582687
+    speed: 2
+    m_Value: 8.213098
+>>>>>>> e73b8b65cad7c890998f0362db0bb6eba883bab2
   m_Ortho:
     m_Target: 1
     speed: 2
