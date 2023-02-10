@@ -8,22 +8,24 @@ using System;
 public class PlayerCollision : MonoBehaviour
 {
     public TextMeshProUGUI playerText;
-    public SpriteRenderer bxo;
+    public SpriteRenderer player;
+    public Canvas canvi; 
 
     void Start()
     {
-        bxo = GetComponent<SpriteRenderer>();
+        player = GetComponent<SpriteRenderer>();
     }
 
     public void OnTriggerEnter2D(Collider2D coll){
         if (coll.gameObject.tag == "box"){
-            bxo.color = Color.red;
+            player.color = Color.red;
             playerText.color = new Color(0,0,0,255);
+
         }
     }
     void OnTriggerExit2D(Collider2D coll){
         if (coll.gameObject.tag == "box"){
-            bxo.color = Color.white;
+            player.color = Color.white;
             playerText.color = new Color(0,0,0,0);
         }
     }
