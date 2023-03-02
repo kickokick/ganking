@@ -18,24 +18,24 @@ public class PlayerCollision : MonoBehaviour
     }
 
     public void OnTriggerEnter2D(Collider2D coll){
-        if (coll.gameObject.tag == "box"){
-            player.color = Color.red;
+        if (coll.gameObject.tag == "shop"){
             playerText.color = new Color(0,0,0,255);
-
-        }
-        else if (coll.gameObject.tag == "shop"){
-            playerText.color = new Color(0,0,0,255);
-            playerText.text = "Press \"E\"to interact";
-            if (Input.GetKeyDown("e")){
+            playerText.text = "Press \"E\" or \"Shift\" to interact";
+            if (Input.GetKey(KeyCode.E)){
+                Debug.Log("First one works");
+                playerText.text = "Hello! This is very cool p1 \n Press \"E\" to continue";
+                Debug.Log("SEecond loine");
+                if (Input.GetKeyDown("e")){
+                playerText.text = "Hello! \n Press \"E\" to continue";
+                }
+            }
+            else if (Input.GetKeyDown(KeyCode.RightShift)){
+                playerText.text = "Hello! This is very cool P2 \n Press \"Shift\" to continue";
             }
         }
     }
     void OnTriggerExit2D(Collider2D coll){
-        if (coll.gameObject.tag == "box"){
-            player.color = Color.white;
-            playerText.color = new Color(0,0,0,0);
-        }
-        else if (coll.gameObject.tag == "shop"){
+        if (coll.gameObject.tag == "shop"){
             playerText.color = new Color(0,0,0,0);
         }
     }
