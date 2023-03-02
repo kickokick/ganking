@@ -17,7 +17,7 @@ public class PlayerCollision : MonoBehaviour
         player = GetComponent<SpriteRenderer>();
     }
 
-    public void OnTriggerEnter2D(Collider2D coll){
+    /*public void OnTriggerEnter2D(Collider2D coll){
         if (coll.gameObject.tag == "shop"){
             playerText.color = new Color(0,0,0,255);
             playerText.text = "Press \"E\" or \"Shift\" to interact";
@@ -38,5 +38,5 @@ public class PlayerCollision : MonoBehaviour
         if (coll.gameObject.tag == "shop"){
             playerText.color = new Color(0,0,0,0);
         }
-    }
+    }*/
 }
