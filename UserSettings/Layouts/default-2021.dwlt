@@ -16,9 +16,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 42
     width: 1500
     height: 918
+=======
+    y: 43
+    width: 1920
+    height: 1037
+>>>>>>> parent of ad655cef (asd)
 =======
     y: 43
     width: 1920
@@ -51,8 +57,13 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1500
     height: 918
+=======
+    width: 1920
+    height: 1037
+>>>>>>> parent of ad655cef (asd)
 =======
     width: 1920
     height: 1037
@@ -81,7 +92,11 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1500
+=======
+    width: 1920
+>>>>>>> parent of ad655cef (asd)
 =======
     width: 1920
 >>>>>>> parent of ad655cef (asd)
@@ -106,8 +121,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 898
     width: 1500
+=======
+    y: 1017
+    width: 1920
+>>>>>>> parent of ad655cef (asd)
 =======
     y: 1017
     width: 1920
@@ -135,6 +155,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1500
     height: 868
   m_MinSize: {x: 300, y: 200}
@@ -142,6 +163,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 37
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
     width: 1920
     height: 987
   m_MinSize: {x: 300, y: 200}
@@ -152,6 +175,9 @@ MonoBehaviour:
 =======
   controlID: 94
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
 --- !u!114 &6
 MonoBehaviour:
@@ -173,6 +199,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1090.5
     height: 868
   m_MinSize: {x: 200, y: 200}
@@ -180,6 +207,8 @@ MonoBehaviour:
   vertical: 1
   controlID: 54
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
     width: 1424
     height: 987
   m_MinSize: {x: 200, y: 200}
@@ -190,6 +219,9 @@ MonoBehaviour:
 =======
   controlID: 95
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
 --- !u!114 &7
 MonoBehaviour:
@@ -211,6 +243,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1090.5
     height: 510
   m_MinSize: {x: 200, y: 100}
@@ -218,6 +251,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 43
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
     width: 1424
     height: 580
   m_MinSize: {x: 200, y: 100}
@@ -228,6 +263,9 @@ MonoBehaviour:
 =======
   controlID: 96
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
 --- !u!114 &8
 MonoBehaviour:
@@ -247,15 +285,21 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 269
     height: 510
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
     width: 339
     height: 580
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_ActualView: {fileID: 13}
   m_Panes:
@@ -278,10 +322,17 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 269
     y: 0
     width: 821.5
     height: 510
+=======
+    x: 339
+    y: 0
+    width: 1085
+    height: 580
+>>>>>>> parent of ad655cef (asd)
 =======
     x: 339
     y: 0
@@ -314,9 +365,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 510
     width: 1090.5
     height: 358
+=======
+    y: 580
+    width: 1424
+    height: 407
+>>>>>>> parent of ad655cef (asd)
 =======
     y: 580
     width: 1424
@@ -347,10 +404,17 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 1090.5
     y: 0
     width: 409.5
     height: 868
+=======
+    x: 1424
+    y: 0
+    width: 496
+    height: 987
+>>>>>>> parent of ad655cef (asd)
 =======
     x: 1424
     y: 0
@@ -386,15 +450,21 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 269
     y: 72
     width: 819.5
     height: 489
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
     x: 339
     y: 73
     width: 1083
     height: 559
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -598,6 +668,7 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_Position:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 10.76198, y: 10.283951, z: 0.8666636}
     speed: 2
     m_Value: {x: 10.76198, y: 10.283951, z: 0.8666636}
@@ -605,12 +676,19 @@ MonoBehaviour:
 <<<<<<< HEAD
     m_Target: {x: 7.8897376, y: 11.853467, z: 0.94673157}
     speed: 2
+=======
+    m_Target: {x: 7.8897376, y: 11.853467, z: 0.94673157}
+    speed: 2
+>>>>>>> parent of ad655cef (asd)
     m_Value: {x: 7.89145, y: 11.854881, z: 0.9467552}
 =======
     m_Target: {x: 2.9537811, y: -2.494515, z: -0.13258804}
     speed: 2
     m_Value: {x: 2.5441911, y: -2.794066, z: -0.13910481}
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_RenderMode: 0
   m_CameraMode:
@@ -663,6 +741,7 @@ MonoBehaviour:
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 14.311375
     speed: 2
     m_Value: 14.311375
@@ -670,12 +749,19 @@ MonoBehaviour:
 <<<<<<< HEAD
     m_Target: 6.3045774
     speed: 2
+=======
+    m_Target: 6.3045774
+    speed: 2
+>>>>>>> parent of ad655cef (asd)
     m_Value: 6.302214
 =======
     m_Target: 13.830027
     speed: 2
     m_Value: 14.481703
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_Ortho:
     m_Target: 1
@@ -718,7 +804,11 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Hierarchy
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of ad655cef (asd)
 =======
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
 >>>>>>> parent of ad655cef (asd)
@@ -727,9 +817,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 72
     width: 268
     height: 489
+=======
+    y: 73
+    width: 338
+    height: 559
+>>>>>>> parent of ad655cef (asd)
 =======
     y: 73
     width: 338
@@ -742,12 +838,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
 <<<<<<< HEAD
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 844}
       m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 36fbffffde590000a05b0000b05b0000545d0000
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of ad655cef (asd)
       scrollPos: {x: 0, y: 240}
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -758,6 +857,9 @@ MonoBehaviour:
       m_LastClickedID: 0
       m_ExpandedIDs: 7cbcffffbcbcffff50beffffbed4ffff38fbffffd45b0000945e00003ebc000068c70000
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -803,21 +905,30 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
     x: 269
     y: 72
     width: 819.5
     height: 489
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
 =======
     x: 339
     y: 73
     width: 1083
     height: 559
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -833,7 +944,12 @@ MonoBehaviour:
   m_TargetSize: {x: 819.5, y: 468}
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 819.5, y: 468}
+=======
+  m_TargetSize: {x: 1083, y: 538}
+>>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+>>>>>>> parent of ad655cef (asd)
 =======
   m_TargetSize: {x: 1083, y: 538}
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
@@ -853,21 +969,30 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
     m_HBaseRangeMin: -204.875
     m_HBaseRangeMax: 204.875
     m_VBaseRangeMin: -117
     m_VBaseRangeMax: 117
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
 =======
     m_HBaseRangeMin: -541.5
     m_HBaseRangeMax: 541.5
     m_VBaseRangeMin: -269
     m_VBaseRangeMax: 269
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -887,21 +1012,30 @@ MonoBehaviour:
       x: 0
       y: 21
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
       width: 819.5
       height: 468
     m_Scale: {x: 2, y: 2}
     m_Translation: {x: 409.75, y: 234}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
 =======
       width: 1083
       height: 538
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 541.5, y: 269}
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -910,8 +1044,11 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
       x: -204.875
       y: -117
@@ -921,7 +1058,10 @@ MonoBehaviour:
   m_defaultScale: 2
   m_LastWindowPixelSize: {x: 1639, y: 978}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
 =======
       x: -541.5
       y: -269
@@ -931,6 +1071,9 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1083, y: 559}
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -954,7 +1097,11 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Animator
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: 1711060831702674872, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of ad655cef (asd)
 =======
     m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000, type: 0}
 >>>>>>> parent of ad655cef (asd)
@@ -975,6 +1122,10 @@ MonoBehaviour:
     - {fileID: 5935226080981720123, guid: f9074c2a14dd9f2408133d44e68db01b, type: 2}
     - {fileID: 2874861186388202039, guid: d25a9e89eb42c4d4fa91ea711e51e963, type: 2}
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+    - {fileID: 7496678473764122535, guid: c03265a16e05966449b6a4a467d02f85, type: 2}
+>>>>>>> parent of ad655cef (asd)
 =======
     - {fileID: 7496678473764122535, guid: c03265a16e05966449b6a4a467d02f85, type: 2}
 >>>>>>> parent of ad655cef (asd)
@@ -1028,11 +1179,14 @@ MonoBehaviour:
       e32: 0
       e33: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PreviewAnimator: {fileID: 0}
   m_AnimatorController: {fileID: 9100000, guid: f9074c2a14dd9f2408133d44e68db01b, type: 2}
   m_BreadCrumbs:
   - m_Target: {fileID: 5935226080981720123, guid: f9074c2a14dd9f2408133d44e68db01b, type: 2}
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
     - e00: 1
       e01: 0
       e02: 0
@@ -1053,6 +1207,9 @@ MonoBehaviour:
   m_AnimatorController: {fileID: 9100000, guid: 2ed5c7092ed1c254e81e7d02e89d01c7, type: 2}
   m_BreadCrumbs:
   - m_Target: {fileID: 1077032156358242583, guid: 2ed5c7092ed1c254e81e7d02e89d01c7, type: 2}
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
@@ -1083,7 +1240,11 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Project
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of ad655cef (asd)
 =======
     m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
 >>>>>>> parent of ad655cef (asd)
@@ -1092,9 +1253,15 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 582
     width: 1089.5
     height: 337
+=======
+    y: 653
+    width: 1423
+    height: 386
+>>>>>>> parent of ad655cef (asd)
 =======
     y: 653
     width: 1423
@@ -1121,7 +1288,12 @@ MonoBehaviour:
     - Assets/GameAssets
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/GameAssets
+=======
+    - Assets/Scenes
+>>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+>>>>>>> parent of ad655cef (asd)
 =======
     - Assets/Scenes
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
@@ -1133,27 +1305,36 @@ MonoBehaviour:
   m_LastFolders:
 <<<<<<< HEAD
   - Assets/GameAssets
+<<<<<<< HEAD
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\venka\OneDrive\Documents\GitHub\ganking
 =======
 <<<<<<< HEAD
   - Assets/GameAssets
 =======
+>>>>>>> parent of ad655cef (asd)
+=======
   - Assets/Scenes
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\kalar\Documents\GitHub\ganking
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_LockTracker:
     m_IsLocked: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 5c5f0000
     m_LastClickedID: 24412
     m_ExpandedIDs: 000000005a5f0000
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> parent of ad655cef (asd)
     m_SelectedIDs: 6a5f0000
     m_LastClickedID: 24426
     m_ExpandedIDs: 00000000685f0000
@@ -1162,6 +1343,9 @@ MonoBehaviour:
     m_LastClickedID: 24846
     m_ExpandedIDs: 00000000ee600000f0600000f2600000f4600000f6600000f8600000fa600000fc60000000ca9a3b
 >>>>>>> af7a2bcd25746b759ffa93b7dfacc59192022597
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -1191,7 +1375,11 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 00000000
+=======
+    m_ExpandedIDs: 00000000ee600000f0600000f2600000f4600000f6600000f8600000fa600000fc600000
+>>>>>>> parent of ad655cef (asd)
 =======
     m_ExpandedIDs: 00000000ee600000f0600000f2600000f4600000f6600000f8600000fa600000fc600000
 >>>>>>> parent of ad655cef (asd)
@@ -1273,7 +1461,11 @@ MonoBehaviour:
     x: 0
     y: 653
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1465
+=======
+    width: 1423
+>>>>>>> parent of ad655cef (asd)
 =======
     width: 1423
 >>>>>>> parent of ad655cef (asd)
@@ -1299,7 +1491,11 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Animation
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -3237396543322336831, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of ad655cef (asd)
 =======
     m_Image: {fileID: -8166618308981325432, guid: 0000000000000000d000000000000000, type: 0}
 >>>>>>> parent of ad655cef (asd)
@@ -1309,7 +1505,11 @@ MonoBehaviour:
     x: 0
     y: 653
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1465
+=======
+    width: 1423
+>>>>>>> parent of ad655cef (asd)
 =======
     width: 1423
 >>>>>>> parent of ad655cef (asd)
@@ -1321,7 +1521,11 @@ MonoBehaviour:
   m_LockTracker:
     m_IsLocked: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastSelectedObjectID: 22936
+=======
+  m_LastSelectedObjectID: 48230
+>>>>>>> parent of ad655cef (asd)
 =======
   m_LastSelectedObjectID: 48230
 >>>>>>> parent of ad655cef (asd)
@@ -1342,6 +1546,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Inspector
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -440750813802333266, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
@@ -1351,6 +1556,8 @@ MonoBehaviour:
     width: 408.5
     height: 847
 =======
+=======
+>>>>>>> parent of ad655cef (asd)
     m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
@@ -1359,6 +1566,9 @@ MonoBehaviour:
     y: 73
     width: 495
     height: 966
+<<<<<<< HEAD
+>>>>>>> parent of ad655cef (asd)
+=======
 >>>>>>> parent of ad655cef (asd)
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
@@ -1372,7 +1582,11 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastVerticalScrollValue: 0
+=======
+  m_LastVerticalScrollValue: 54
+>>>>>>> parent of ad655cef (asd)
 =======
   m_LastVerticalScrollValue: 54
 >>>>>>> parent of ad655cef (asd)
