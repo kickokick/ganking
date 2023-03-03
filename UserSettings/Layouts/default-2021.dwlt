@@ -161,6 +161,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
+<<<<<<< HEAD
   controlID: 37
 =======
 =======
@@ -179,6 +180,9 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
 =======
 >>>>>>> parent of ad655cef (asd)
+=======
+  controlID: 43
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -205,6 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
+<<<<<<< HEAD
   controlID: 54
 =======
 =======
@@ -223,6 +228,9 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
 =======
 >>>>>>> parent of ad655cef (asd)
+=======
+  controlID: 44
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,6 +257,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
+<<<<<<< HEAD
   controlID: 43
 =======
 =======
@@ -267,6 +276,9 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
 =======
 >>>>>>> parent of ad655cef (asd)
+=======
+  controlID: 45
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -409,6 +421,7 @@ MonoBehaviour:
     y: 0
     width: 409.5
     height: 868
+<<<<<<< HEAD
 =======
     x: 1424
     y: 0
@@ -423,6 +436,10 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
+=======
+  m_MinSize: {x: 276, y: 71}
+  m_MaxSize: {x: 4001, y: 4021}
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
   m_ActualView: {fileID: 19}
   m_Panes:
   - {fileID: 19}
@@ -669,6 +686,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 10.76198, y: 10.283951, z: 0.8666636}
     speed: 2
     m_Value: {x: 10.76198, y: 10.283951, z: 0.8666636}
@@ -690,6 +708,11 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
 =======
 >>>>>>> parent of ad655cef (asd)
+=======
+    m_Target: {x: 7.8897376, y: 11.853467, z: 0.94673157}
+    speed: 2
+    m_Value: {x: 7.89145, y: 11.854881, z: 0.9467552}
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -742,6 +765,7 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 14.311375
     speed: 2
     m_Value: 14.311375
@@ -763,6 +787,11 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
 =======
 >>>>>>> parent of ad655cef (asd)
+=======
+    m_Target: 6.3045774
+    speed: 2
+    m_Value: 6.302214
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -839,6 +868,7 @@ MonoBehaviour:
     m_TreeViewState:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       scrollPos: {x: 0, y: 844}
       m_SelectedIDs: 
       m_LastClickedID: 0
@@ -861,6 +891,12 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
 =======
 >>>>>>> parent of ad655cef (asd)
+=======
+      scrollPos: {x: 0, y: 240}
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 36fbffff565d0000
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1328,6 +1364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_SelectedIDs: 5c5f0000
     m_LastClickedID: 24412
     m_ExpandedIDs: 000000005a5f0000
@@ -1347,6 +1384,11 @@ MonoBehaviour:
 >>>>>>> parent of ad655cef (asd)
 =======
 >>>>>>> parent of ad655cef (asd)
+=======
+    m_SelectedIDs: 6a5f0000
+    m_LastClickedID: 24426
+    m_ExpandedIDs: 00000000685f0000
+>>>>>>> parent of f2ef300a (Revert "Revert "Revert "asdf""")
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
