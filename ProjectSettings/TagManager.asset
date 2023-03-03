@@ -42,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Floor
+    uniqueID: 2758077193
+    locked: 0
   - name: UnderText
     uniqueID: 2767489051
     locked: 0
