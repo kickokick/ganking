@@ -28,29 +28,24 @@ public class Demer : MonoBehaviour
     {
         enter = false;
     }
-    IEnumerator Waiting()
-    {
-        yield return new WaitForSeconds(5);
-    }
         void Update()
-    {
-        StartCoroutine(Waiting());
-        while (counter < 1)
         {
-            if (enter && Input.GetKeyDown(KeyCode.E))
+            if (counter < 1)
             {
-                counter += 1;
-                P1Count.text = counter.ToString();
-                P2Count.text = counter.ToString();
-                demercan.position = new Vector3(xPos, yPos);
-            }
-            else if (enter && Input.GetKeyDown(KeyCode.RightShift))
-            {
-                counter += 1;
-                P1Count.text = counter.ToString();
-                P2Count.text = counter.ToString();
-                demercan.position = new Vector3(xPos, yPos);
+                if (enter && Input.GetKeyDown(KeyCode.E))
+                {
+                    counter += 1;
+                    P1Count.text = counter.ToString();
+                    P2Count.text = counter.ToString();
+                    demercan.position = new Vector3(xPos, yPos);
+                }
+                else if (enter && Input.GetKeyDown(KeyCode.RightShift))
+                {
+                    counter += 1;
+                    P1Count.text = counter.ToString();
+                    P2Count.text = counter.ToString();
+                    demercan.position = new Vector3(xPos, yPos);
+                }
             }
         }
-    }
 }
