@@ -28,8 +28,13 @@ public class Demer : MonoBehaviour
     {
         enter = false;
     }
-    void Update()
+    IEnumerator Waiting()
     {
+        yield return new WaitForSeconds(5);
+    }
+        void Update()
+    {
+        StartCoroutine(Waiting());
         while (counter < 1)
         {
             if (enter && Input.GetKeyDown(KeyCode.E))
