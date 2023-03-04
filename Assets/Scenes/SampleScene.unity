@@ -7677,7 +7677,6 @@ GameObject:
   - component: {fileID: 345305704}
   - component: {fileID: 345305703}
   - component: {fileID: 345305702}
-  - component: {fileID: 345305707}
   - component: {fileID: 345305706}
   m_Layer: 6
   m_Name: bluesus
@@ -7807,32 +7806,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pressure: {fileID: 0}
   wall: {fileID: 0}
---- !u!61 &345305707
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 345305701}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.16}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.16, y: 0.16}
-  m_EdgeRadius: 0
 --- !u!1 &349254880
 GameObject:
   m_ObjectHideFlags: 0
@@ -14823,6 +14796,7 @@ GameObject:
   m_Component:
   - component: {fileID: 721151052}
   - component: {fileID: 721151051}
+  - component: {fileID: 721151053}
   m_Layer: 0
   m_Name: RedDoor..
   m_TagString: Untagged
@@ -14897,6 +14871,32 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 313
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &721151053
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 721151050}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.16, y: 0.16}
+    newSize: {x: 0.16, y: 0.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.16, y: 0.16}
+  m_EdgeRadius: 0
 --- !u!1 &727414024
 GameObject:
   m_ObjectHideFlags: 0
@@ -16683,6 +16683,7 @@ GameObject:
   m_Component:
   - component: {fileID: 801086394}
   - component: {fileID: 801086393}
+  - component: {fileID: 801086395}
   m_Layer: 0
   m_Name: WhiteDoor..
   m_TagString: Untagged
@@ -16757,6 +16758,32 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 314
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &801086395
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 801086392}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.16, y: 0.16}
+    newSize: {x: 0.16, y: 0.16}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.16, y: 0.16}
+  m_EdgeRadius: 0
 --- !u!1 &803806596
 GameObject:
   m_ObjectHideFlags: 0
@@ -26513,7 +26540,6 @@ GameObject:
   - component: {fileID: 1287680116}
   - component: {fileID: 1287680115}
   - component: {fileID: 1287680114}
-  - component: {fileID: 1287680119}
   - component: {fileID: 1287680118}
   m_Layer: 6
   m_Name: readsus
@@ -26643,32 +26669,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   pressure: {fileID: 0}
   wall: {fileID: 0}
---- !u!61 &1287680119
-BoxCollider2D:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1287680113}
-  m_Enabled: 1
-  m_Density: 1
-  m_Material: {fileID: 0}
-  m_IsTrigger: 0
-  m_UsedByEffector: 0
-  m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
-  m_SpriteTilingProperty:
-    border: {x: 0, y: 0, z: 0, w: 0}
-    pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.16, y: 0.16}
-    newSize: {x: 1, y: 1}
-    adaptiveTilingThreshold: 0.5
-    drawMode: 0
-    adaptiveTiling: 0
-  m_AutoTiling: 0
-  serializedVersion: 2
-  m_Size: {x: 0.16, y: 0.16}
-  m_EdgeRadius: 0
 --- !u!1 &1291298325
 GameObject:
   m_ObjectHideFlags: 0
@@ -41889,6 +41889,7 @@ GameObject:
   - component: {fileID: 2073342845}
   - component: {fileID: 2073342844}
   - component: {fileID: 2073342846}
+  - component: {fileID: 2073342847}
   m_Layer: 6
   m_Name: BlueDoor
   m_TagString: Untagged
@@ -41988,6 +41989,32 @@ BoxCollider2D:
   m_AutoTiling: 0
   serializedVersion: 2
   m_Size: {x: 0.31617683, y: 0.1712372}
+  m_EdgeRadius: 0
+--- !u!61 &2073342847
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2073342843}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.32, y: 0.16}
+    newSize: {x: 1, y: 1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.32, y: 0.16}
   m_EdgeRadius: 0
 --- !u!1 &2073405295
 GameObject:

@@ -18,10 +18,10 @@ public class AnimPlayerTwo : MonoBehaviour
         else if (Input.GetKeyDown(KeyCode.DownArrow)){
             anim.Play("Player2Walk");
         }
-        else if (Input.GetKeyUp(KeyCode.RightArrow)){
+        else if (Input.GetKeyUp(KeyCode.UpArrow)){
             anim.Play("Player2Idle");
         }
-        else if (Input.GetKeyUp(KeyCode.LeftArrow)){
+        else if (Input.GetKeyUp(KeyCode.DownArrow)){
             anim.Play("Player2Idle");
         }
     }
