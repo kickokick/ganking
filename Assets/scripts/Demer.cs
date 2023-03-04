@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics.Tracing;
 using TMPro;
 using UnityEngine;
+using System;
 
 public class Demer : MonoBehaviour
 {
@@ -34,14 +35,14 @@ public class Demer : MonoBehaviour
             {
                 if (enter && Input.GetKeyDown(KeyCode.E))
                 {
-                    counter += 1;
+                    counter = Int32.Parse(P1Count.text) + 1;
                     P1Count.text = counter.ToString();
                     P2Count.text = counter.ToString();
                     demercan.position = new Vector3(xPos, yPos);
                 }
                 else if (enter && Input.GetKeyDown(KeyCode.RightShift))
                 {
-                    counter += 1;
+                    counter = Int32.Parse(P1Count.text) + 1;
                     P1Count.text = counter.ToString();
                     P2Count.text = counter.ToString();
                     demercan.position = new Vector3(xPos, yPos);

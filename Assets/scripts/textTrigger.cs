@@ -12,9 +12,13 @@ public class textTrigger : MonoBehaviour
     public void OnTriggerEnter2D(Collider2D coll){
         P1Text.text = message;
         P1Text.color = new Color(0,0,0,255);
+        P2Text.text = message;
+        P2Text.color = new Color(0,0,0,255);
+        
     }
     public void OnTriggerExit2D(Collider2D coll){
         P1Text.color = new Color(0,0,0,0);
+        P2Text.color = new Color(0,0,0,0);
     }
 
 }
