@@ -8,6 +8,8 @@ TagManager:
   - P1Text
   - P2Text
   - shop
+  - Player1
+  - Player2
   layers:
   - Default
   - TransparentFX
