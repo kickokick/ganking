@@ -12,30 +12,21 @@ public class AnimPlayerOne : MonoBehaviour
     }
     void Update()
     {
-        if (Input.GetKeyDown("w"))
+        if (Input.GetAxis("Player 1 Vertical") > 0 || Input.GetAxis("Player 1 Vertical") < 0)
         {
             anim.Play("Player1Walk");
         }
-        if (Input.GetKeyDown("s"))
-        {
-            anim.Play("Player1Walk");
-        }
-        if (Input.GetKeyDown("d"))
-        {
-            anim.Play("Player1WalkRight");
-            if (Input.GetKeyUp("d"))
-            {
-                return;
-            }
-        }
-        if (Input.GetKeyDown("a"))
+        else if (Input.GetAxis("Player 1 Horizontal") < 0)
         {
             anim.Play("Player1WalkLeft");
-            if (Input.GetKeyUp("a"))
-            {
-                return;
-            }
         }
-
+        else if (Input.GetAxis("Player 1 Horizontal") > 0)
+        {
+            anim.Play("Player1WalkRight");
+        }
+        else
+        {
+            anim.Rebind();
+        }
     }
 }

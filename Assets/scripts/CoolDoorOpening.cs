@@ -13,8 +13,4 @@ public class CoolDoorOpening : MonoBehaviour
     public void OnTriggerEnter2D(Collider2D coll){
         anim.Play("CoolDoorBroke");
     }
-    public void OnTriggerExit(Collider coll)
-    {
-        anim.Play
-    }
 }
