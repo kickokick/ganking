@@ -14,18 +14,9 @@ public class DoorOpenScript : MonoBehaviour
         anim = GetComponent<Animator>();
     }
     public void OnTriggerEnter2D(Collider2D coll){
-        enter = true;
+        anim.Play("BlastDoorOpen");
     }
     public void OnTriggerExit2D(Collider2D coll){
-        enter = false;
-    }
-    void Update()
-    {
-        if (Input.GetKeyDown("e") && enter){
-            anim.Play("BlastDoorOpen");
-        }
-        else if (Input.GetKeyDown("j") && enter){
-            anim.Play("Player1Walk");
-        }
+        anim.Play("BlastDoor");
     }
 }
