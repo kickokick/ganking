@@ -12,17 +12,30 @@ public class AnimPlayerOne : MonoBehaviour
     }
     void Update()
     {
-        if (Input.GetKeyDown("w")){
+        if (Input.GetKeyDown("w"))
+        {
             anim.Play("Player1Walk");
         }
-        else if (Input.GetKeyDown("s")){
+        if (Input.GetKeyDown("s"))
+        {
             anim.Play("Player1Walk");
         }
-        else if (Input.GetKeyUp("w")){
-            anim.Play("Player1Idle");
+        if (Input.GetKeyDown("d"))
+        {
+            anim.Play("Player1WalkRight");
+            if (Input.GetKeyUp("d"))
+            {
+                return;
+            }
         }
-        else if (Input.GetKeyUp("s")){
-            anim.Play("Player1Idle");
+        if (Input.GetKeyDown("a"))
+        {
+            anim.Play("Player1WalkLeft");
+            if (Input.GetKeyUp("a"))
+            {
+                return;
+            }
         }
+
     }
 }
